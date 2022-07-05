@@ -1,0 +1,28 @@
+body{ background-color:rgb(181, 233, 241) ;}
+
+
+
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 900;color: rgb(182, 43, 43);}
+h2{ font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(235, 113, 208);}
+p{font-weight: 800; color: rgb(55, 102, 189);}
+.link-button{font-family: Verdana, Geneva, Tahoma, sans-serif; background-image:linear-gradient(violet, pink); font-weight: 700; border: 10px 30px;
+border-radius: 5px; text-decoration: none;}
+
+
+
+
+
+
+.half-width{width: 50%; padding-left: 8%;}
+.half-width img{ width: 100%; padding-left: 5%;}
+
+.flexible-container{ display: flex;}
+
+.half-width2{ width: 50%; padding-right: 5%;}
+.half-width2 img{width: 100%;padding-right: 5%;}
+ul{color: rgb(225, 180, 30);font-weight: 800;}
+.fast{ color: blueviolet;}
+
+.half-width3{width: 50%; 
+padding-bottom: 50px;}
+.half-width3 img{width: 100%; padding-left: 50%;}
